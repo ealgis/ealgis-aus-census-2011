@@ -1,12 +1,15 @@
 
-EAlGIS - Australian Census 2011 Loader
-===================================
+EAlGIS - Australian Census 2011
+===============================
+
+(To find out what EAlGIS is, see https://github.com/grahame/ealgis/)
+
+Importing the census
+--------------------
 
 Run:
 
     ./load.sh
-
-to load the census into EAlGIS (https://github.com/grahame/ealgis/)
 
 If you have not already downloaded the census, it will be downloaded and 
 extracted.
