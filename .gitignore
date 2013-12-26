@@ -1,0 +1,8 @@
+2011 Datapacks BCP_IP_TSP_PEP_ECP_WPP_ERP_Release 3/
+*.7z
+.*swp
+*.pyc
+*.pyo
+.DS_Store
+__pycache__
+*.egg-info
