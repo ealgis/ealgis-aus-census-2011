@@ -15,5 +15,5 @@ ealgis set map_default_lat -27.121915157767 &&
 ealgis set map_default_lon 133.21253738715 &&
 ealgis set map_default_zoom 4 &&
 ealgis run aus_census_2011.py
-echo 'VACUUM ANALYZE;' | psql ealgis
+echo 'VACUUM ANALYZE;' | /app/develop.sh psql
 
